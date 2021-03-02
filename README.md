@@ -1,11 +1,21 @@
-### Hi there 👋, Léa LA ROZE
-#### Design and Developement
+### Hi there 👋
 ![Design and Developement](https://github.com/lealaroze/lealaroze/blob/main/githead.PNG)
 
+#### Design and Developement
+ 
+## About me
 I'm Léa from France, I am currently working as a trainee at Tech Data France I hold the position of Technical representative post / pre sales of Autodesk software. 
 I study in a computer science university following a bachelor in computer science.
 
-Skills: REACT / JS / C / PHP / Firebase / Cloud
+## Skills and Experiences
+
+* React 
+* JS
+* C 
+* PHP
+* Firebase, Heroku
+
+
 
 
 
