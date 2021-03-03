@@ -9,10 +9,9 @@ I study in a computer science university following a bachelor in computer scienc
 
 ## Skills and Experiences
 
-* React 
+* PHP
 * JS
 * C 
-* PHP
 * Firebase, Heroku
 
 
